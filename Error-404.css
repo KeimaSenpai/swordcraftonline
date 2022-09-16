@@ -1,0 +1,67 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-image-1 {
+  width: 301px;
+  height: 634px;
+  margin: 82px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Panton-BlackCaps;
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 1.875rem;
+  background-image: none;
+  margin: 20px auto 60px;
+  padding: 8px 33px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    height: 635px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 570px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 293px;
+    height: 473px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5625rem;
+    width: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 1rem;
+    margin-top: 9px;
+    margin-bottom: 20px;
+  }
+}@font-face {
+  font-family: 'Panton-BlackCaps';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Panton-BlackCaps.otf);
+}@font-face {
+  font-family: 'Mojang-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Mojang-Regular.ttf);
+}

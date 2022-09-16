@@ -1,0 +1,440 @@
+ .u-section-1 {
+  background-image: url("images/tickets-cta-dbede394c9e5375b4e93f98e18c7ca53.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 553px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Panton-BlackCaps;
+  font-size: 3.75rem;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Panton-BlackCaps;
+  font-size: 3.75rem;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: RobotoMonoBoldforPowerline;
+  margin: 20px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 456px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 349px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 262px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 165px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 374px;
+    margin-right: 374px;
+  }
+} .u-section-2 {
+  background-image: url("images/MCD-PMP_Seasonal-Adventures_Transition_1200x72.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 72px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 45px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 30px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 581px;
+}
+
+.u-section-3 .u-list-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  grid-template-rows: auto;
+}
+
+.u-section-3 .u-repeater-1 {
+  grid-template-columns: 100%;
+  grid-gap: 10px 10px;
+  min-height: 1626px;
+}
+
+.u-section-3 .u-list-item-1 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-3 .u-image-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/wallpaper-minecraft-alex-steve-universe.jpeg");
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 2.25rem;
+  font-family: Panton-BlackCaps;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-btn-1 {
+  border-style: none none solid;
+  font-family: Panton-BlackCaps;
+  padding: 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.25rem;
+  width: 732px;
+  font-family: RobotoMonoBoldforPowerline;
+  margin: 114px auto 0;
+}
+
+.u-section-3 .u-btn-2 {
+  border-style: none none solid;
+  font-family: RobotoMonoBoldforPowerline;
+  padding: 0;
+}
+
+.u-section-3 .u-list-item-2 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-3 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/maxresdefasfdult.jpg");
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-3 {
+  font-size: 2.25rem;
+  font-family: Panton-BlackCaps;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-text-4 {
+  font-size: 1.25rem;
+  width: 732px;
+  font-family: RobotoMonoBoldforPowerline;
+  margin: 114px auto 0;
+}
+
+.u-section-3 .u-list-item-3 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-3 .u-image-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/minecraft-wallpaper-2560-x-1440.jpg");
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-5 {
+  font-size: 2.25rem;
+  font-family: Panton-BlackCaps;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-text-6 {
+  font-size: 1.25rem;
+  width: 732px;
+  font-family: RobotoMonoBoldforPowerline;
+  margin: 114px auto 0;
+}
+
+.u-section-3 .u-list-item-4 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-3 .u-image-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/3bb7f580-bb92-46d9-b26a-89946fa0f088.jfif");
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-7 {
+  font-size: 2.25rem;
+  font-family: Panton-BlackCaps;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-text-8 {
+  font-size: 1.25rem;
+  width: 732px;
+  font-family: RobotoMonoBoldforPowerline;
+  margin: 114px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 515px;
+  }
+
+  .u-section-3 .u-list-item-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-3 .u-list-item-2 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-3 .u-list-item-3 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-3 .u-list-item-4 {
+    background-position: 50% 50%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-2 {
+    width: 660px;
+  }
+
+  .u-section-3 .u-text-4 {
+    width: 660px;
+  }
+
+  .u-section-3 .u-text-6 {
+    width: 660px;
+  }
+
+  .u-section-3 .u-text-8 {
+    width: 660px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-2 {
+    width: 520px;
+  }
+
+  .u-section-3 .u-text-4 {
+    width: 520px;
+  }
+
+  .u-section-3 .u-text-6 {
+    width: 520px;
+  }
+
+  .u-section-3 .u-text-8 {
+    width: 520px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-container-layout-1 {
+    padding: 28px 0;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1.5rem;
+    margin-top: 215px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin: 18px 10px -2px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding: 28px 0;
+  }
+
+  .u-section-3 .u-text-3 {
+    font-size: 1.5rem;
+    margin-top: 215px;
+  }
+
+  .u-section-3 .u-text-4 {
+    width: auto;
+    margin: 18px 10px -2px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding: 28px 0;
+  }
+
+  .u-section-3 .u-text-5 {
+    font-size: 1.5rem;
+    margin-top: 215px;
+  }
+
+  .u-section-3 .u-text-6 {
+    width: auto;
+    margin: 18px 10px -2px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding: 28px 0;
+  }
+
+  .u-section-3 .u-text-7 {
+    font-size: 1.5rem;
+    margin-top: 215px;
+  }
+
+  .u-section-3 .u-text-8 {
+    width: auto;
+    margin: 18px 10px -2px;
+  }
+} .u-section-4 {
+  background-image: url("images/MCD-PMP_Seasonal-Adventures_Transition_1200x72.png");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 62px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 45px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 25px;
+  }
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 491px;
+}
+
+.u-section-5 .u-list-1 {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  grid-template-rows: auto;
+}
+
+.u-section-5 .u-repeater-1 {
+  grid-template-columns: 100%;
+  grid-gap: 10px 10px;
+  min-height: 412px;
+}
+
+.u-section-5 .u-image-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/Minecraftfanart__1.jfif");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-5 .u-text-1 {
+  font-size: 3rem;
+  font-family: Panton-BlackCaps;
+  margin: 148px auto 0;
+}
+
+.u-section-5 .u-text-2 {
+  width: 724px;
+  font-size: 1.25rem;
+  font-family: RobotoMonoBoldforPowerline;
+  margin: 50px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 515px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-text-2 {
+    width: 660px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-text-2 {
+    width: 520px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-5 .u-text-2 {
+    width: auto;
+    margin-left: -20px;
+    margin-right: -20px;
+  }
+}@font-face {
+  font-family: 'Panton-BlackCaps';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Panton-BlackCaps.otf);
+}@font-face {
+  font-family: 'RobotoMonoBoldforPowerline';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/RobotoMonoBoldforPowerline.ttf);
+}@font-face {
+  font-family: 'Mojang-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Mojang-Regular.ttf);
+}

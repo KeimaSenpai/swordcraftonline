@@ -47,11 +47,17 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 213px;
+    min-height: 398px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 173px;
   }
 
   .u-section-1 .u-text-2 {
-    width: 340px;
+    width: auto;
+    margin: 15px 0 6px;
   }
 } .u-section-2 {
   background-image: url("images/MCD-PMP_Seasonal-Adventures_Transition_1200x72.webp");

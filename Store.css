@@ -40,24 +40,41 @@
   .u-section-1 .u-sheet-1 {
     min-height: 262px;
   }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 165px;
+    min-height: 332px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 1.5rem;
+    width: auto;
+    margin-top: 125px;
   }
 
   .u-section-1 .u-text-2 {
     font-size: 1.5rem;
+    width: auto;
+    margin-top: 2px;
   }
 
   .u-section-1 .u-text-3 {
-    margin-left: 374px;
-    margin-right: 374px;
+    margin-top: 19px;
   }
 } .u-section-2 {
   background-image: url("images/MCD-PMP_Seasonal-Adventures_Transition_1200x72.webp");
@@ -260,26 +277,87 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1686px;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    min-height: 1544px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 10px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 80px;
+  }
+
   .u-section-3 .u-text-2 {
-    width: 520px;
+    width: auto;
+    margin-top: 82px;
+    margin-left: 23px;
+    margin-right: 23px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 10px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-top: 80px;
   }
 
   .u-section-3 .u-text-4 {
-    width: 520px;
+    width: auto;
+    margin-top: 82px;
+    margin-left: 23px;
+    margin-right: 23px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 10px;
+  }
+
+  .u-section-3 .u-text-5 {
+    margin-top: 80px;
   }
 
   .u-section-3 .u-text-6 {
-    width: 520px;
+    width: auto;
+    margin-top: 82px;
+    margin-left: 23px;
+    margin-right: 23px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 10px;
+  }
+
+  .u-section-3 .u-text-7 {
+    margin-top: 80px;
   }
 
   .u-section-3 .u-text-8 {
-    width: 520px;
+    width: auto;
+    margin-top: 82px;
+    margin-left: 23px;
+    margin-right: 23px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-3 .u-container-layout-1 {
-    padding: 28px 0;
+    padding-top: 28px;
+    padding-bottom: 28px;
   }
 
   .u-section-3 .u-text-1 {
@@ -288,12 +366,12 @@
   }
 
   .u-section-3 .u-text-2 {
-    width: auto;
     margin: 18px 10px -2px;
   }
 
   .u-section-3 .u-container-layout-2 {
-    padding: 28px 0;
+    padding-top: 28px;
+    padding-bottom: 28px;
   }
 
   .u-section-3 .u-text-3 {
@@ -302,12 +380,12 @@
   }
 
   .u-section-3 .u-text-4 {
-    width: auto;
     margin: 18px 10px -2px;
   }
 
   .u-section-3 .u-container-layout-3 {
-    padding: 28px 0;
+    padding-top: 28px;
+    padding-bottom: 28px;
   }
 
   .u-section-3 .u-text-5 {
@@ -316,12 +394,12 @@
   }
 
   .u-section-3 .u-text-6 {
-    width: auto;
     margin: 18px 10px -2px;
   }
 
   .u-section-3 .u-container-layout-4 {
-    padding: 28px 0;
+    padding-top: 28px;
+    padding-bottom: 28px;
   }
 
   .u-section-3 .u-text-7 {
@@ -330,7 +408,6 @@
   }
 
   .u-section-3 .u-text-8 {
-    width: auto;
     margin: 18px 10px -2px;
   }
 } .u-section-4 {

@@ -37,17 +37,24 @@
   }
 
   .u-section-1 .u-text-2 {
-    width: 540px;
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 149px;
+    min-height: 353px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
   }
 
   .u-section-1 .u-text-2 {
-    width: 340px;
+    font-size: 1.25rem;
+    margin-top: 7px;
   }
 }@font-face {
   font-family: 'Panton-BlackCaps';

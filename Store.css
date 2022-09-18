@@ -130,7 +130,7 @@
 .u-section-3 .u-text-1 {
   font-size: 2.25rem;
   font-family: Panton-BlackCaps;
-  margin: 0 auto;
+  margin: 126px auto 0;
 }
 
 .u-section-3 .u-btn-1 {
@@ -143,13 +143,7 @@
   font-size: 1.25rem;
   width: 732px;
   font-family: RobotoMonoBoldforPowerline;
-  margin: 114px auto 0;
-}
-
-.u-section-3 .u-btn-2 {
-  border-style: none none solid;
-  font-family: RobotoMonoBoldforPowerline;
-  padding: 0;
+  margin: 77px auto 0;
 }
 
 .u-section-3 .u-list-item-2 {
@@ -171,14 +165,19 @@
 .u-section-3 .u-text-3 {
   font-size: 2.25rem;
   font-family: Panton-BlackCaps;
-  margin: 0 auto;
+  margin: 126px auto 0;
+}
+
+.u-section-3 .u-btn-2 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-section-3 .u-text-4 {
   font-size: 1.25rem;
-  width: 732px;
   font-family: RobotoMonoBoldforPowerline;
-  margin: 114px auto 0;
+  width: 732px;
+  margin: 77px auto 0;
 }
 
 .u-section-3 .u-list-item-3 {
@@ -200,14 +199,19 @@
 .u-section-3 .u-text-5 {
   font-size: 2.25rem;
   font-family: Panton-BlackCaps;
-  margin: 0 auto;
+  margin: 126px auto 0;
+}
+
+.u-section-3 .u-btn-3 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-section-3 .u-text-6 {
   font-size: 1.25rem;
   width: 732px;
   font-family: RobotoMonoBoldforPowerline;
-  margin: 114px auto 0;
+  margin: 77px auto 0;
 }
 
 .u-section-3 .u-list-item-4 {
@@ -226,14 +230,19 @@
 .u-section-3 .u-text-7 {
   font-size: 2.25rem;
   font-family: Panton-BlackCaps;
-  margin: 0 auto;
+  margin: 126px auto 0;
+}
+
+.u-section-3 .u-btn-4 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-section-3 .u-text-8 {
   font-size: 1.25rem;
   width: 732px;
   font-family: RobotoMonoBoldforPowerline;
-  margin: 114px auto 0;
+  margin: 77px auto 0;
 }
 
 @media (max-width: 1199px) {

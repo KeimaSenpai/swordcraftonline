@@ -1177,6 +1177,11 @@
   margin: 0 auto;
 }
 
+.u-section-5 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-5 .u-text-5 {
   font-size: 1.25rem;
   margin: 12px 18px 0 60px;
@@ -1208,7 +1213,7 @@
   margin: 0 auto;
 }
 
-.u-section-5 .u-btn-2 {
+.u-section-5 .u-btn-3 {
   background-image: none;
   padding: 0;
 }
@@ -1242,6 +1247,11 @@
 
 .u-section-5 .u-text-10 {
   margin: 0 auto;
+}
+
+.u-section-5 .u-btn-4 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-section-5 .u-text-11 {

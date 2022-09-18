@@ -1,0 +1,14 @@
+help - Ayuda sobre el bot.
+myuser - Configuración actual.
+acc - Credenciales (usuario,contraseña).
+host - Url de la nube.
+repo - Repo ID.
+uptype - Tipo de subida a moodles (evidence, draft, perfil, blog, calendar).
+files - Archivos de la nube (evidence).
+delall - Eliminar todos los archivos (evidence).
+token - Ver token de la cuenta.
+zips - Tamaño de zips.
+proxy - Equipar proxy.
+off_proxy - Desequipar proxy.
+crypt - Encriptar proxy.
+decrypt - Desencriptar proxy.

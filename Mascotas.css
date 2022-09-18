@@ -128,7 +128,6 @@
   grid-template-columns: 100%;
   grid-gap: 10px 10px;
   min-height: 1633px;
-  grid-auto-columns: 100%;
 }
 
 .u-section-3 .u-list-item-1 {
@@ -337,12 +336,26 @@
     padding-bottom: 25px;
   }
 
+  .u-section-3 .u-image-1 {
+    height: auto;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-3 .u-btn-1 {
     font-size: 1.25rem;
   }
 
   .u-section-3 .u-container-layout-2 {
     padding-bottom: 25px;
+  }
+
+  .u-section-3 .u-image-2 {
+    height: auto;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-3 .u-btn-2 {

@@ -238,179 +238,22 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 750px;
-}
-
-.u-section-2 .u-layout-wrap-1 {
-  margin-top: 60px;
-  margin-bottom: 60px;
-}
-
-.u-section-2 .u-layout-cell-1 {
-  min-height: 315px;
-}
-
-.u-section-2 .u-container-layout-1 {
-  padding: 30px;
-}
-
-.u-section-2 .u-icon-1 {
-  width: 64px;
-  height: 64px;
-  margin: 0 auto;
-}
-
-.u-section-2 .u-layout-cell-2 {
-  min-height: 315px;
-}
-
-.u-section-2 .u-container-layout-2 {
-  padding: 30px;
-}
-
-.u-section-2 .u-layout-cell-3 {
-  min-height: 315px;
-}
-
-.u-section-2 .u-container-layout-3 {
-  padding: 30px;
-}
-
-.u-section-2 .u-layout-cell-4 {
-  min-height: 315px;
-}
-
-.u-section-2 .u-container-layout-4 {
-  padding: 30px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 640px;
-  }
-
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 260px;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 260px;
-  }
-
-  .u-section-2 .u-layout-cell-3 {
-    min-height: 260px;
-  }
-
-  .u-section-2 .u-layout-cell-4 {
-    min-height: 260px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 518px;
-  }
-
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 199px;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 199px;
-  }
-
-  .u-section-2 .u-layout-cell-3 {
-    min-height: 199px;
-  }
-
-  .u-section-2 .u-layout-cell-4 {
-    min-height: 199px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 1117px;
-  }
-
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 299px;
-  }
-
-  .u-section-2 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 299px;
-  }
-
-  .u-section-2 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-2 .u-layout-cell-3 {
-    min-height: 299px;
-  }
-
-  .u-section-2 .u-container-layout-3 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-2 .u-layout-cell-4 {
-    min-height: 299px;
-  }
-
-  .u-section-2 .u-container-layout-4 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 784px;
-  }
-
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 188px;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 188px;
-  }
-
-  .u-section-2 .u-layout-cell-3 {
-    min-height: 188px;
-  }
-
-  .u-section-2 .u-layout-cell-4 {
-    min-height: 188px;
-  }
-} .u-section-3 {
-  background-image: none;
-}
-
-.u-section-3 .u-sheet-1 {
   min-height: 901px;
 }
 
-.u-section-3 .u-list-1 {
+.u-section-2 .u-list-1 {
   margin-top: 60px;
   margin-bottom: 20px;
   grid-template-rows: auto;
 }
 
-.u-section-3 .u-repeater-1 {
+.u-section-2 .u-repeater-1 {
   grid-template-columns: calc(50% - 5px) calc(50% - 5px);
   grid-gap: 10px 10px;
   min-height: 821px;
 }
 
-.u-section-3 .u-list-item-1 {
+.u-section-2 .u-list-item-1 {
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
   --animation-custom_in-opacity: 0;
@@ -419,26 +262,26 @@
   animation-timing-function: ease-in-out;
 }
 
-.u-section-3 .u-image-1 {
+.u-section-2 .u-image-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/Minecraft_Wither.jfif");
 }
 
-.u-section-3 .u-container-layout-1 {
+.u-section-2 .u-container-layout-1 {
   padding: 30px 23px;
 }
 
-.u-section-3 .u-text-1 {
+.u-section-2 .u-text-1 {
   font-weight: 700;
   font-family: Panton-BlackCaps;
   margin: 168px auto 0;
 }
 
-.u-section-3 .u-text-2 {
+.u-section-2 .u-text-2 {
   font-size: 1.125rem;
   margin: 2px 0 0;
 }
 
-.u-section-3 .u-list-item-2 {
+.u-section-2 .u-list-item-2 {
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
   --animation-custom_in-opacity: 0;
@@ -447,31 +290,31 @@
   --effect-scale: 1.25;
 }
 
-.u-section-3 .u-image-2 {
+.u-section-2 .u-image-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/3bb7f580-bb92-46d9-b26a-89946fa0f088.jfif");
 }
 
-.u-section-3 .u-container-layout-2 {
+.u-section-2 .u-container-layout-2 {
   padding: 30px 23px;
 }
 
-.u-section-3 .u-text-3 {
+.u-section-2 .u-text-3 {
   font-weight: 700;
   font-family: Panton-BlackCaps;
   margin: 168px auto 0;
 }
 
-.u-section-3 .u-btn-1 {
+.u-section-2 .u-btn-1 {
   background-image: none;
   padding: 0;
 }
 
-.u-section-3 .u-text-4 {
+.u-section-2 .u-text-4 {
   font-size: 1.125rem;
   margin: 2px 0 0;
 }
 
-.u-section-3 .u-list-item-3 {
+.u-section-2 .u-list-item-3 {
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
   --animation-custom_in-opacity: 0;
@@ -479,26 +322,26 @@
   --animation-custom_in-scale: 1;
 }
 
-.u-section-3 .u-image-3 {
+.u-section-2 .u-image-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/157211-843-y2matecom-nether-update-official-trailer-1080p-article_cover_bd-2.png");
 }
 
-.u-section-3 .u-container-layout-3 {
+.u-section-2 .u-container-layout-3 {
   padding: 30px 23px;
 }
 
-.u-section-3 .u-text-5 {
+.u-section-2 .u-text-5 {
   font-weight: 700;
   font-family: Panton-BlackCaps;
   margin: 168px auto 0;
 }
 
-.u-section-3 .u-text-6 {
+.u-section-2 .u-text-6 {
   font-size: 1.125rem;
   margin: 2px 0 0;
 }
 
-.u-section-3 .u-list-item-4 {
+.u-section-2 .u-list-item-4 {
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
   --animation-custom_in-opacity: 0;
@@ -506,240 +349,240 @@
   --animation-custom_in-scale: 1;
 }
 
-.u-section-3 .u-image-4 {
+.u-section-2 .u-image-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/wallpaper-minecraft-alex-steve-universe.jpeg");
 }
 
-.u-section-3 .u-container-layout-4 {
+.u-section-2 .u-container-layout-4 {
   padding: 30px 23px;
 }
 
-.u-section-3 .u-text-7 {
+.u-section-2 .u-text-7 {
   font-weight: 700;
   font-family: Panton-BlackCaps;
   margin: 168px auto 0;
 }
 
-.u-section-3 .u-btn-2 {
+.u-section-2 .u-btn-2 {
   background-image: none;
   padding: 0;
 }
 
-.u-section-3 .u-text-8 {
+.u-section-2 .u-text-8 {
   font-size: 1.125rem;
   margin: 2px 0 0;
 }
 
-.u-section-3 .u-btn-3 {
+.u-section-2 .u-btn-3 {
   background-image: none;
   padding: 0;
 }
 
 @media (max-width: 1199px) {
-  .u-section-3 .u-sheet-1 {
+  .u-section-2 .u-sheet-1 {
     min-height: 515px;
   }
 
-  .u-section-3 .u-repeater-1 {
+  .u-section-2 .u-repeater-1 {
     min-height: 677px;
   }
 
-  .u-section-3 .u-list-item-1 {
+  .u-section-2 .u-list-item-1 {
     background-position: 50% 50%;
   }
 
-  .u-section-3 .u-list-item-2 {
+  .u-section-2 .u-list-item-2 {
     background-position: 50% 50%;
     transition-duration: 0.5s;
   }
 
-  .u-section-3 .u-list-item-3 {
+  .u-section-2 .u-list-item-3 {
     background-position: 50% 50%;
   }
 
-  .u-section-3 .u-list-item-4 {
+  .u-section-2 .u-list-item-4 {
     background-position: 50% 50%;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-3 .u-repeater-1 {
+  .u-section-2 .u-repeater-1 {
     grid-template-columns: 100%;
   }
 
-  .u-section-3 .u-container-layout-1 {
+  .u-section-2 .u-container-layout-1 {
     padding-left: 30px;
     padding-right: 30px;
   }
 
-  .u-section-3 .u-container-layout-2 {
+  .u-section-2 .u-container-layout-2 {
     padding-left: 30px;
     padding-right: 30px;
   }
 
-  .u-section-3 .u-container-layout-3 {
+  .u-section-2 .u-container-layout-3 {
     padding-left: 30px;
     padding-right: 30px;
   }
 
-  .u-section-3 .u-container-layout-4 {
+  .u-section-2 .u-container-layout-4 {
     padding-left: 30px;
     padding-right: 30px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-3 .u-image-1 {
+  .u-section-2 .u-image-1 {
     background-position: 46.41% 50%;
   }
 
-  .u-section-3 .u-text-1 {
+  .u-section-2 .u-text-1 {
     width: auto;
     margin-top: 162px;
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-3 .u-text-2 {
+  .u-section-2 .u-text-2 {
     margin-top: 8px;
   }
 
-  .u-section-3 .u-text-3 {
+  .u-section-2 .u-text-3 {
     width: auto;
     margin-top: 162px;
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-3 .u-text-4 {
+  .u-section-2 .u-text-4 {
     margin-top: 8px;
   }
 
-  .u-section-3 .u-text-5 {
+  .u-section-2 .u-text-5 {
     width: auto;
     margin-top: 162px;
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-3 .u-text-6 {
+  .u-section-2 .u-text-6 {
     margin-top: 8px;
   }
 
-  .u-section-3 .u-text-7 {
+  .u-section-2 .u-text-7 {
     width: auto;
     margin-top: 162px;
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-3 .u-text-8 {
+  .u-section-2 .u-text-8 {
     margin-top: 8px;
   }
-} .u-section-4 {
+} .u-section-3 {
   background-image: none;
 }
 
-.u-section-4 .u-sheet-1 {
+.u-section-3 .u-sheet-1 {
   min-height: 105px;
 }
 
-.u-section-4 .u-countdown-1 {
+.u-section-3 .u-countdown-1 {
   margin: 20px auto;
 }
 
-.u-section-4 .u-countdown-counter-1 {
+.u-section-3 .u-countdown-counter-1 {
   font-weight: 700;
   font-size: 2.25rem;
   line-height: 1;
 }
 
-.u-section-4 .u-countdown-label-1 {
+.u-section-3 .u-countdown-label-1 {
   font-size: 0.75rem;
   text-transform: uppercase;
 }
 
-.u-section-4 .u-countdown-separator-1 {
+.u-section-3 .u-countdown-separator-1 {
   font-weight: 700;
   font-size: 2.25rem;
   line-height: 1;
 }
 
-.u-section-4 .u-countdown-counter-2 {
+.u-section-3 .u-countdown-counter-2 {
   font-weight: 700;
   font-size: 2.25rem;
   line-height: 1;
 }
 
-.u-section-4 .u-countdown-label-2 {
+.u-section-3 .u-countdown-label-2 {
   font-size: 0.75rem;
   text-transform: uppercase;
 }
 
-.u-section-4 .u-countdown-separator-2 {
+.u-section-3 .u-countdown-separator-2 {
   font-weight: 700;
   font-size: 2.25rem;
   line-height: 1;
 }
 
-.u-section-4 .u-countdown-counter-3 {
+.u-section-3 .u-countdown-counter-3 {
   font-weight: 700;
   font-size: 2.25rem;
   line-height: 1;
 }
 
-.u-section-4 .u-countdown-label-3 {
+.u-section-3 .u-countdown-label-3 {
   font-size: 0.75rem;
   text-transform: uppercase;
 }
 
-.u-section-4 .u-countdown-separator-3 {
+.u-section-3 .u-countdown-separator-3 {
   font-weight: 700;
   font-size: 2.25rem;
   line-height: 1;
 }
 
-.u-section-4 .u-countdown-counter-4 {
+.u-section-3 .u-countdown-counter-4 {
   font-weight: 700;
   font-size: 2.25rem;
   line-height: 1;
 }
 
-.u-section-4 .u-countdown-label-4 {
+.u-section-3 .u-countdown-label-4 {
   font-size: 0.75rem;
   text-transform: uppercase;
 }
 
-.u-section-4 .u-countdown-separator-4 {
+.u-section-3 .u-countdown-separator-4 {
   font-weight: 700;
   font-size: 2.25rem;
   line-height: 1;
 }
 
-.u-section-4 .u-countdown-counter-5 {
+.u-section-3 .u-countdown-counter-5 {
   font-weight: 700;
   font-size: 2.25rem;
   line-height: 1;
 }
 
-.u-section-4 .u-countdown-label-5 {
+.u-section-3 .u-countdown-label-5 {
   font-size: 0.75rem;
   text-transform: uppercase;
 }
 
-.u-section-4 .u-countdown-separator-5 {
+.u-section-3 .u-countdown-separator-5 {
   font-weight: 700;
   font-size: 2.25rem;
   line-height: 1;
 }
 
-.u-section-4 .u-countdown-counter-6 {
+.u-section-3 .u-countdown-counter-6 {
   font-weight: 700;
   font-size: 2.25rem;
   line-height: 1;
 }
 
-.u-section-4 .u-countdown-label-6 {
+.u-section-3 .u-countdown-label-6 {
   font-size: 0.75rem;
   text-transform: uppercase;
 }@font-face {

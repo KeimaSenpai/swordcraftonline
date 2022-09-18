@@ -1,0 +1,1957 @@
+ .u-section-1 {
+  background-image: url("images/063e7493f905b65c02cdc71aae774ec4.jpg");
+  background-position: 50% 68.02%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 627px;
+  height: 310px;
+  margin: 20px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 194px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 267px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 95px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 168px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 99px;
+}
+
+.u-section-2 .u-list-1 {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.u-section-2 .u-repeater-1 {
+  min-height: 97px;
+  grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
+  grid-gap: 0px 0px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0 10px 30px;
+}
+
+.u-section-2 .u-image-1 {
+  object-position: 50% 100%;
+  height: 67px;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+  filter: brightness(0.8);
+  margin-top: 14px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: Mojang-Bold;
+  margin: -48px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0 10px 30px;
+}
+
+.u-section-2 .u-image-2 {
+  object-position: 50% 57.77%;
+  height: 67px;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+  filter: brightness(0.8);
+  margin-top: 14px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-family: Mojang-Bold;
+  margin: -48px auto 0;
+}
+
+.u-section-2 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 0 10px 30px;
+}
+
+.u-section-2 .u-image-3 {
+  object-position: 50% 57.77%;
+  height: 67px;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+  filter: brightness(0.8);
+  margin-top: 14px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-3 {
+  font-family: Mojang-Bold;
+  margin: -48px auto 0;
+}
+
+.u-section-2 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 0 10px 30px;
+}
+
+.u-section-2 .u-image-4 {
+  object-position: 50% 87.51%;
+  height: 67px;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+  filter: brightness(0.8);
+  margin-top: 14px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-4 {
+  font-family: Mojang-Bold;
+  margin: -48px auto 0;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 0 10px 30px;
+}
+
+.u-section-2 .u-image-5 {
+  object-position: 50% 57.77%;
+  height: 67px;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+  filter: brightness(0.8);
+  margin-top: 14px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-5 {
+  font-family: Mojang-Bold;
+  margin: -48px auto 0;
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding: 0 10px 30px;
+}
+
+.u-section-2 .u-image-6 {
+  object-position: 50% 57.77%;
+  height: 67px;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+  filter: brightness(0.8);
+  margin-top: 14px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-6 {
+  font-family: Mojang-Bold;
+  margin: -48px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-repeater-1 {
+    min-height: 80px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 54px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: -37px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 54px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: -37px;
+  }
+
+  .u-section-2 .u-image-3 {
+    height: 54px;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+    margin-top: -37px;
+  }
+
+  .u-section-2 .u-image-4 {
+    height: 54px;
+  }
+
+  .u-section-2 .u-text-4 {
+    width: auto;
+    margin-top: -37px;
+  }
+
+  .u-section-2 .u-image-5 {
+    height: 54px;
+  }
+
+  .u-section-2 .u-text-5 {
+    width: auto;
+    margin-top: -37px;
+  }
+
+  .u-section-2 .u-image-6 {
+    height: 54px;
+  }
+
+  .u-section-2 .u-text-6 {
+    width: auto;
+    margin-top: -37px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-repeater-1 {
+    min-height: 245px;
+    grid-template-columns: 33.3333% 33.3333% 33.3333%;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 87px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -70px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 87px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: -70px;
+  }
+
+  .u-section-2 .u-image-3 {
+    height: 87px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: -70px;
+  }
+
+  .u-section-2 .u-image-4 {
+    height: 87px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-top: -70px;
+  }
+
+  .u-section-2 .u-image-5 {
+    height: 87px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-top: -70px;
+  }
+
+  .u-section-2 .u-image-6 {
+    height: 84px;
+  }
+
+  .u-section-2 .u-text-6 {
+    margin-top: -67px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-repeater-1 {
+    min-height: 413px;
+    grid-template-columns: 50% 50%;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 99px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -82px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 99px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: -82px;
+  }
+
+  .u-section-2 .u-image-3 {
+    height: 99px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: -82px;
+  }
+
+  .u-section-2 .u-image-4 {
+    height: 99px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-top: -82px;
+  }
+
+  .u-section-2 .u-image-5 {
+    height: 99px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-top: -82px;
+  }
+
+  .u-section-2 .u-image-6 {
+    height: 95px;
+  }
+
+  .u-section-2 .u-text-6 {
+    margin-top: -79px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 283px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    min-height: 282px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 57px;
+    margin-top: 18px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -42px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 57px;
+    margin-top: 18px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: -42px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-3 {
+    height: 57px;
+    margin-top: 18px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: -42px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-4 {
+    height: 57px;
+    margin-top: 18px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-top: -42px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-5 {
+    height: 57px;
+    margin-top: 18px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-top: -42px;
+  }
+
+  .u-section-2 .u-container-layout-6 {
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-6 {
+    height: 57px;
+    margin-top: 18px;
+  }
+
+  .u-section-2 .u-text-6 {
+    margin-top: -42px;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-3 .u-image-1 {
+  width: 462px;
+  height: 462px;
+  margin: 10px auto 0 10px;
+}
+
+.u-section-3 .u-image-2 {
+  width: 462px;
+  height: 462px;
+  object-position: 93.14% 50%;
+  margin: -462px 10px 0 auto;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: Mojang-Bold;
+  font-size: 2.25rem;
+  margin: 10px auto 0 175px;
+}
+
+.u-section-3 .u-text-2 {
+  font-family: Mojang-Bold;
+  font-size: 2.25rem;
+  margin: -43px 175px 0 auto;
+}
+
+.u-section-3 .u-text-3 {
+  font-family: Mojang-Bold;
+  margin: 0 auto 0 109px;
+}
+
+.u-section-3 .u-text-4 {
+  font-family: Mojang-Bold;
+  margin: -36px 104px 0 auto;
+}
+
+.u-section-3 .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 10px auto 0 121px;
+}
+
+.u-section-3 .u-icon-1 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-3 .u-icon-2 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-3 .u-icon-3 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-3 .u-icon-4 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-3 .u-icon-5 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-3 .u-social-icons-2 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: -32px 121px 37px auto;
+}
+
+.u-section-3 .u-icon-6 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-3 .u-icon-7 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-3 .u-icon-8 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-3 .u-icon-9 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-3 .u-icon-10 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 536px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 384px;
+    height: 384px;
+    margin-top: 11px;
+  }
+
+  .u-section-3 .u-image-2 {
+    width: 383px;
+    height: 383px;
+    margin-top: -383px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: auto;
+    margin-top: 11px;
+    margin-left: 136px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-right: 121px;
+  }
+
+  .u-section-3 .u-text-3 {
+    width: auto;
+    margin-left: 65px;
+  }
+
+  .u-section-3 .u-text-4 {
+    width: auto;
+    margin-right: 51px;
+  }
+
+  .u-section-3 .u-social-icons-1 {
+    margin-left: 82px;
+  }
+
+  .u-section-3 .u-social-icons-2 {
+    margin-right: 66px;
+    margin-bottom: 11px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1203px;
+  }
+
+  .u-section-3 .u-image-1 {
+    margin-left: auto;
+  }
+
+  .u-section-3 .u-image-2 {
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: auto;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-left: auto;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-social-icons-1 {
+    margin-left: auto;
+  }
+
+  .u-section-3 .u-social-icons-2 {
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1183px;
+  }
+
+  .u-section-3 .u-image-2 {
+    width: 462px;
+    height: 462px;
+    margin-top: 121px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: -583px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-top: 540px;
+    margin-right: 182px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-top: -589px;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-top: 553px;
+    margin-right: 106px;
+  }
+
+  .u-section-3 .u-social-icons-1 {
+    margin-top: -589px;
+  }
+
+  .u-section-3 .u-social-icons-2 {
+    margin-top: 564px;
+    margin-right: 128px;
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 768px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 255px;
+    height: 255px;
+    margin-top: 8px;
+  }
+
+  .u-section-3 .u-image-2 {
+    width: 292px;
+    height: 292px;
+    margin-top: 108px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-top: -443px;
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-top: -5px;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-top: 372px;
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-social-icons-1 {
+    margin-top: -400px;
+  }
+
+  .u-section-3 .u-social-icons-2 {
+    margin-top: 368px;
+    margin-right: auto;
+    margin-bottom: 8px;
+  }
+} .u-section-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 549px;
+}
+
+.u-section-4 .u-text-1 {
+  font-family: Mojang-Regular;
+  margin: 25px auto 0;
+}
+
+.u-section-4 .u-list-1 {
+  margin-top: 6px;
+  margin-bottom: 60px;
+  grid-template-rows: auto;
+}
+
+.u-section-4 .u-repeater-1 {
+  grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
+  grid-gap: 10px 10px;
+  min-height: 415px;
+}
+
+.u-section-4 .u-list-item-1 {
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 6px 30px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 275px;
+  height: 275px;
+  margin: 19px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  font-family: Mojang-Regular;
+  font-size: 1.75rem;
+  margin: 25px 19px 0;
+}
+
+.u-section-4 .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 9px auto 0;
+}
+
+.u-section-4 .u-icon-1 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-4 .u-icon-2 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-4 .u-icon-3 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-4 .u-icon-4 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-4 .u-icon-5 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-4 .u-list-item-2 {
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 6px 30px;
+}
+
+.u-section-4 .u-image-2 {
+  width: 275px;
+  height: 275px;
+  margin: 19px auto 0;
+}
+
+.u-section-4 .u-text-3 {
+  font-family: Mojang-Regular;
+  font-size: 1.75rem;
+  margin: 25px 19px 0;
+}
+
+.u-section-4 .u-social-icons-2 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 9px auto 0;
+}
+
+.u-section-4 .u-icon-6 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-4 .u-icon-7 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-4 .u-icon-8 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-4 .u-icon-9 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-4 .u-icon-10 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-4 .u-list-item-3 {
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 6px 30px;
+}
+
+.u-section-4 .u-image-3 {
+  width: 275px;
+  height: 275px;
+  margin: 19px auto 0;
+}
+
+.u-section-4 .u-text-4 {
+  font-family: Mojang-Regular;
+  font-size: 1.75rem;
+  margin: 25px 19px 0;
+}
+
+.u-section-4 .u-social-icons-3 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 9px auto 0;
+}
+
+.u-section-4 .u-icon-11 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-4 .u-icon-12 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-4 .u-icon-13 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-4 .u-icon-14 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-4 .u-icon-15 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-repeater-1 {
+    min-height: 375px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-text-2 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-4 .u-text-3 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-4 .u-text-4 {
+    font-size: 1.5rem;
+  }
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 2695px;
+}
+
+.u-section-5 .u-text-1 {
+  font-family: Mojang-Regular;
+  margin: 13px auto 0;
+}
+
+.u-section-5 .u-list-1 {
+  grid-template-rows: auto;
+  margin-top: 17px;
+  margin-bottom: 0;
+}
+
+.u-section-5 .u-repeater-1 {
+  grid-template-columns: 33.3333% 33.3333% 33.3333%;
+  grid-gap: 0px 0px;
+  min-height: 2628px;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-1 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-2 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-1 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-2 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-3 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-4 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-5 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-2 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-3 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-2 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-6 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-7 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-8 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-9 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-10 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-3 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-3 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-4 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-3 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-11 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-12 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-13 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-14 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-15 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-4 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-4 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-5 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-4 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-16 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-17 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-18 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-19 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-20 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-5 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-5 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-6 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-5 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-21 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-22 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-23 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-24 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-25 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-6 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-6 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-7 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-6 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-26 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-27 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-28 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-29 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-30 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-7 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-7 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-8 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-7 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-31 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-32 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-33 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-34 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-35 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-8 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-8 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-9 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-8 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-36 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-37 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-38 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-39 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-40 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-9 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-9 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-10 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-9 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-41 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-42 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-43 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-44 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-45 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-10 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-10 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-11 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-10 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-46 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-47 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-48 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-49 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-50 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-11 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-11 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-12 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-11 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-51 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-52 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-53 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-54 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-55 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-12 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-12 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-13 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-12 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-56 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-57 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-58 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-59 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-60 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-13 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-13 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-14 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-13 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-61 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-62 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-63 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-64 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-65 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-14 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-14 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-15 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-14 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-66 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-67 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-68 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-69 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-70 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-15 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-15 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-16 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-15 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-71 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-72 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-73 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-74 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-75 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-16 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-16 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-17 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-16 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-76 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-77 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-78 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-79 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-80 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-17 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-17 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-18 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-17 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-81 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-82 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-83 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-84 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-85 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-section-5 .u-container-layout-18 {
+  padding: 30px 30px 24px;
+}
+
+.u-section-5 .u-image-18 {
+  width: 275px;
+  height: 275px;
+  margin: 17px auto 0;
+}
+
+.u-section-5 .u-text-19 {
+  font-family: Mojang-Regular;
+  margin: 23px auto 0;
+}
+
+.u-section-5 .u-social-icons-18 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-icon-86 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-87 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-5 .u-icon-88 {
+  height: 100%;
+  color: rgb(3, 155, 229) !important;
+}
+
+.u-section-5 .u-icon-89 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-5 .u-icon-90 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-repeater-1 {
+    min-height: 2167px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-repeater-1 {
+    grid-template-columns: 50% 50%;
+    min-height: 3735px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-9 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-10 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-11 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-12 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-13 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-14 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-15 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-16 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-17 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-18 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}@font-face {
+  font-family: 'Mojang-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Mojang-Bold.ttf);
+}@font-face {
+  font-family: 'Mojang-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Mojang-Regular.ttf);
+}
